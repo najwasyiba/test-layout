@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish&display=swap");
+
+body {
+  font-family: "Mulish", sans-serif;
+}
+
+.navbar-link-weight {
+  font-weight: 600;
+  color: #1f1534;
+}
+
+.btn-bulat {
+  background-color: #458ff6;
+  color: #000;
+  text-size-adjust: 10px;
+}
+
+.btn-bulat:hover {
+  background-color: #9fc7ff;
+}
+
+/* Statistik */
+.card-style {
+  border-radius: 20px;
+  box-shadow: 10px 40px 50px 0px rgba(229, 233, 246, 0.4);
+}
+
+/* Footer */
+.logoFooter {
+  padding-bottom: 1.3rem;
+}
+
+.logoFooter h4,
+.bbmkFooter {
+  padding-top: 1.5rem;
+  font-weight: 600;
+}
+
+.logoFooter img {
+  width: 10%;
+  align-self: center;
+  margin: 5px;
+  margin-bottom: -4px;
+}
+
+.copyright {
+  text-align: center;
+}
+
+.instagram_icon {
+  font-size: 28px;
+}
+
+.detail_info a {
+  text-decoration: none;
+  color: #000;
+}
+
+.detail_info a:hover {
+  color: #458ff6;
+}
+
+footer {
+  background: linear-gradient(183.41deg, rgba(103, 195, 243, 0.8) -8.57%, rgba(90, 152, 242, 0.8) 82.96%);
+}
